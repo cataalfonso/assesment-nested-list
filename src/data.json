@@ -1,0 +1,42 @@
+[
+    {"id":1,
+"name":"node1",
+"parentId":0},
+
+{"id":2,
+"name":"node2",
+"parentId":0},
+
+
+{"id":3,
+"name":"node1.1",
+"parentId":1},
+
+
+{"id":4,
+"name":"node2.1",
+"parentId":2},
+
+{"id":5,
+"name":"node1.2",
+"parentId":1},
+
+
+{"id":6,
+"name":"node2.2",
+"parentId":2},
+
+{"id":7,
+"name":"node2.2.1",
+"parentId":6},
+
+
+{"id":8,
+"name":"node 2.2.2",
+"parentId":6},
+
+{"id":9,
+"name":"node 3",
+"parentId":0}
+
+]
